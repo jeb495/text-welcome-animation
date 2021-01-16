@@ -1,4 +1,4 @@
 # text-welcome-animation
-### :leaf: A text animation using anime.js :leaf:
+###  A text animation using anime.js 
 
 requires anime.js and node.js
