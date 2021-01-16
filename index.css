@@ -1,0 +1,23 @@
+.opentext{
+    color: #95B2B8;
+    padding: 40px 0;
+    font-size: 2em;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 20rem;
+    font-size: 400%;
+}
+
+.opentext .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+
+body{
+        background: #120309;
+}
