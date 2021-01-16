@@ -1,4 +1,12 @@
-# text-welcome-animation
-###  A text animation using anime.js 
+# :space_invader: A Text Animation made with Anime.js
+An Anime.js animation
 
-requires anime.js and node.js
+
+
+## :signal_strength: For more info regarding Anime.js: https://animejs.com/
+
+    
+#### Please Note: 
+    you must have Node JS and Anime.js installed on your system
+
+    
