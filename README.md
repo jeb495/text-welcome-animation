@@ -7,6 +7,8 @@ An Anime.js animation
 
     
 #### Please Note: 
-    you must have Node JS and Anime.js installed on your system
+    you must have Node JS and *Anime.js* installed on your system
+    
+    Anime.js is not quite required, though having it installed may fix some unexpected errors
 
     
