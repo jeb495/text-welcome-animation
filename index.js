@@ -1,7 +1,8 @@
-// Wrap every letter in a span
+// Need to Wrap every letter in a span
 var textWrapper = document.querySelector('.opentext ');
 textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
 
+//Selecting targets, easing & Fading
 anime.timeline({loop: true})
   .add({
     targets: '.opentext .letter',
